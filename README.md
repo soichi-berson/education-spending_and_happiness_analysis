@@ -22,9 +22,11 @@ The results of analysis are shown in 'PDF' file.
 
 -`images`: pictures on the file.
 
--`data_analysis.ipynb`: the report with analysis using Python 
+-`pdf`: the reports of two versions with/without Python codes, the document of only Python codes.
 
--`data_analysis.pdf`: the report with analysis using Python (PDF version)
+-`data_analysis.ipynb`: the report with analysis using Python. 
+
+-`data_analysis.pdf`: the report with analysis using Python (PDF version).
 
 
 ## License
