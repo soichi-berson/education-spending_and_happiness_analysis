@@ -1,4 +1,4 @@
-# Education Spending and Citizen Happiness: A Comparative Analysis
+# (Data Manuplation) Education Spending and Citizen Happiness: A Comparative Analysis
 
 ## Introduction
 This is a Python project, conducted by Soichiro Tanabe based on the studies from the Open University module: 'data management and analysis'.
