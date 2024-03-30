@@ -26,3 +26,11 @@ The results of analysis are shown in 'PDF' file.
 
 -`data_analysis.pdf`: the report with analysis using Python (PDF version)
 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+
+
+Feel free to reach out if you have any questions, suggestions, or if you require further information. Your feedback is valuable!
